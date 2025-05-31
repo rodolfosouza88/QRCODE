@@ -54,3 +54,17 @@ p {
   font-family: outfit;
   text-align: center;
 }
+
+@media (max-width: 360px) {
+  h3 {
+    font-size: 1rem;
+  }
+
+  p {
+    font-size: 0.8rem;
+  }
+
+  .container {
+    padding: 15px;
+  }
+}
