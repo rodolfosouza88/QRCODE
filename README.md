@@ -29,6 +29,12 @@ Projeto simples para treinar HTML e CSS, inspirado no design do [Figma QR Code C
 
 ---
 
+## 🌐 Link do Projeto
+
+✅ Acesse online: [qrcode-project-rvs88.netlify.app](https://qrcode-project-rvs88.netlify.app/)
+
+---
+
 ## 📚 Aprendizados
 
 - Uso combinado de Grid e Flexbox para centralização e layout
